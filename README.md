@@ -90,12 +90,16 @@ Here are some ideas to get you started:
 ###
 
 <div style="text-align:center;">
-  <div style="float:left; width:50%;">
-    <img src="https://leetcard.jacoblin.cool/nitinhariharan?ext=heatmap" />
-  </div>
-  <div style="float:right; width:50%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinhariharan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  </div>
+  <table style="margin-left:auto; margin-right:auto;">
+    <tr>
+      <td>
+        <img src="https://leetcard.jacoblin.cool/nitinhariharan?ext=heatmap" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinhariharan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 
