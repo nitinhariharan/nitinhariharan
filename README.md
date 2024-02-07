@@ -79,16 +79,6 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nitinhariharan?ext=heatmap" />
-</p>
-<br clear="both">
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinhariharan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div style="text-align:center;">
   <table style="margin-left:auto; margin-right:auto;">
     <tr>
