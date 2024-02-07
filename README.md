@@ -81,14 +81,16 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinhariharan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
 </div>
 
 ###
 
 <br clear="both">
 
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/nitinhariharan/count.svg?"  />
 </div>
-
+-->
 ###
