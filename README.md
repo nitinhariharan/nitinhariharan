@@ -93,5 +93,5 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/nitinhariharan)
+![Leetcode Stats]([https://leetcard.jacoblin.cool/nitinhariharan](https://leetcard.jacoblin.cool/nitinhariharan?theme=light&font=Rubik&ext=heatmap)https://leetcard.jacoblin.cool/nitinhariharan?theme=light&font=Rubik&ext=heatmap)
 ###
