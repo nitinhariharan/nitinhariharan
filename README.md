@@ -92,5 +92,5 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/nitinhariharan/count.svg?"  />
 </div>
 -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/nitinhariaharan?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/nitinhariharan?ext=heatmap)
 ###
