@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Nitin Hariharan</h2>
+<h2 align="center">Hi 👋! My name is Nitin Hariharan</h2>
 
 ###
 
