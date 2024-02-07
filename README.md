@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">🔭 I have Interned at Sony Research India and Jio and NIT Trichy and Vikas Technologies</p>
+<p align="left">📚 I'm a AI-ML Researcher and Developer</p>
 
 ###
 
-<p align="left">📚 I'm a AI-ML Researcher and Developer</p>
+<p align="left">🔭 I have Interned at Sony Research India and Jio and NIT Trichy and Vikas Technologies</p>
 
 ###
 
