@@ -83,7 +83,7 @@ Here are some ideas to get you started:
   <table style="margin-left:auto; margin-right:auto;">
     <tr>
       <td>
-        <img src="https://leetcard.jacoblin.cool/nitinhariharan?ext=heatmap&animation=false"/>
+        <img src="https://leetcard.jacoblin.cool/nitinhariharan?ext=heatmap"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitinhariharan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="220" alt="languages graph" />
